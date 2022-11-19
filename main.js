@@ -17,7 +17,7 @@ function printAll(nums, permutations , answers ) {
   return answers;
 }
 
-console.log(
+
     printAll([1, 2])
 
-)
+
